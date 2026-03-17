@@ -114,7 +114,7 @@ while option != "1" and option != "2" and option != "3" and option != "4" and op
                             2. Calcular base
                             3. Calcular altura\n""")
         
-            triangulo = (input("\nQue deseas calcular?: "))
+                triangulo = (input("\nQue deseas calcular?: "))
 
             if triangulo == "1":
                 base = float(input("Ingresa la base del triangulo (en pulgadas): "))
@@ -149,7 +149,7 @@ while option != "1" and option != "2" and option != "3" and option != "4" and op
                             2. Calcular area
                             3. Calcular apotema\n""")
         
-            pentagono = (input("\nQue deseas calcular?: "))
+                pentagono = (input("\nQue deseas calcular?: "))
 
             if pentagono == "1":
                 lado = float(input("Ingresa el lado del pentagono (en pulgadas): "))
@@ -185,7 +185,7 @@ while option != "1" and option != "2" and option != "3" and option != "4" and op
                             3. Calcular ancho
                             4. Calcular altura\n""")
         
-            prisma = input("\nQue deseas calcular?: ")
+                prisma = input("\nQue deseas calcular?: ")
 
             if prisma == "1":
                 largo = float(input("Ingresa el largo del prisma (en pulgadas): "))
